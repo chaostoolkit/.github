@@ -1,7 +1,7 @@
 <h1 align="center">Chaos Engineering for Everyone</h1>
 
 <p align="center">
-    <img width="750" src="https://github.com/chaostoolkit/.github/raw/main/assets/logo.svg" alt="logo">
+    <img width="750" src="https://github.com/chaostoolkit/.github/raw/main/assets/logo.png" alt="logo">
 </p>
 
 <div align="center">
