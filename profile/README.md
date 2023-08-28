@@ -13,7 +13,7 @@
 <div align="center">
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/chaostoolkit?color=5e7c88&style=for-the-badge)](https://twitter.com/chaostoolkit)
-[![Slack Join](https://img.shields.io/badge/Slack-Join-_?color=5e7c88&style=for-the-badge)](https://join.chaostoolkit.org/)
+[![Slack Join](https://img.shields.io/badge/Slack-Join-_?color=5e7c88&style=for-the-badge)](https://join.slack.com/t/chaostoolkit/shared_invite/zt-22c5isqi9-3YjYzucVTNFFVIG~Kzns8g)
 	
 </div>
 
